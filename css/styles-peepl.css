@@ -1,0 +1,236 @@
+    .container0 {
+        display: flex;
+        background: rgb(32, 44, 52);
+        height: 220px;            
+        flex-direction: row;
+    }
+    .container0 img {
+        height: 80px; 
+    }
+
+    .container0 div{
+        color: aliceblue;      
+    }
+    .container0 .Hlogo
+    {
+    margin-left: 70px;
+    }
+    
+    .container0 .Header1
+    {
+    margin-left: 1000px;
+    }
+    .container0 .Header2, .Header3
+    {
+    margin-left: 20px;
+    }
+    
+    .container1 {
+        display: flex;
+        background: rgb(32, 44, 52);
+        height: 250px;            
+        flex-direction: row;
+    }
+
+    .container1 .Main_title {
+        margin-left: 200px;
+        margin-top: -80px;
+        color: aliceblue;
+        font-size: 20px;
+
+    }
+
+    .container1 .Sub_title {
+
+        margin-left: -380px;
+        margin-top: 10px;
+        width: 400px;
+        color: aliceblue;
+    }
+
+    .container1 .SignUp {
+        margin-left: -400px;
+        margin-top: 80px;
+    }
+    .container1 .Main_banner {
+        margin-left: 900px;
+        margin-top: -80px;
+    }
+
+    .container1 img {
+        height: 40px; 
+        margin-top: -20px;
+    }
+
+    .container1 .Main_banner img {
+        height: 250px; 
+        width: 600px;
+        margin-top: -10px;
+        margin-left: -450px;
+
+    }
+    .container2 {
+        display: flex;
+        height: 250px;            
+        flex-direction: row;
+    }
+    .container2 .Title {
+        margin-left: 550px;
+        color: rgb(32, 44, 52);
+        font-size: 50px;
+        width: 800px;
+        margin-top: 20px;
+        font-weight: 700;
+
+    }
+
+    .container2 .first, .second, .third, .fourth {
+
+        border: 2px solid red;
+        border-radius: 25px;
+        height: 150px;
+        width: 100px;
+        margin-top: 150px;
+        margin-left: -320px;
+    }
+    .container2 .T1 {
+        margin-top: 320px;
+        margin-left: -120px;
+        font-weight:bold;
+    }
+
+    .container2 .T2 {
+        margin-top: 320px;
+        margin-left: 80px;
+        font-weight:bold;
+    }
+
+    .container2 .T3 {
+        margin-top: 320px;
+        margin-left: 120px;
+        font-weight:bold;
+    }
+    .container2 .T4 {
+        margin-top: 320px;
+        margin-left: 80px;
+        font-weight:bold;
+
+    }
+
+    .container2 .first img {
+        
+        width: 105px;
+        height: 150px;
+        margin-left: -650px;
+        
+
+    }
+
+    .container2 .second img {
+        
+        width: 105px;
+        height: 150px;
+        margin-left: -220px;
+        
+
+    }
+    
+    .container2 .third img {        
+        width: 105px;
+        height: 150px;
+        margin-left: 213px;
+    }
+
+    .container2 .fourth img {        
+        width: 105px;
+        height: 150px;
+        margin-left: 645px;
+        margin-top: -2px;
+    }
+
+    .container3 {
+        display: flex;
+        height: 250px;            
+        flex-direction: row;
+        background-color: beige;
+        margin-top: 200px;
+    }
+
+    .container3 .quote {
+
+        margin-left: 350px;
+        font-weight: 700;
+        font-size: xx-large;
+        width: 1500px;
+        text-align: left;
+
+    }
+    .container3 .quote1 {
+
+        margin-left: -450px;
+        margin-top: 150px;
+        font-weight: 700;
+        font-size: xx-large;
+        width: 1200px;
+        text-align: left;
+        
+    }
+
+
+    .container4 {
+        display: flex;
+        height: 100px;
+        width: 800px;
+        background-color: #3882F6;
+        margin: 105px;
+        margin-left: 400px;
+        border-radius: 15px;
+        
+    }
+
+    .container4 div {
+        color: aliceblue;
+        
+    }
+    .container4 .Title {
+        margin-left: 25px;
+        margin-top: 25px;
+        font-size: 20px;
+        width: 400px;
+        
+    }
+    .container4 .T1 {
+        margin-left: -399px;
+        margin-top: 50px;
+        font-size: 13px;
+        width: 400px;
+        
+    }
+    .container4 img {
+        
+        width: 120px;
+        margin-top: 23px;
+        margin-left: 180px;      
+        
+    }
+
+    .container4 .cta {
+
+        border: 2px solid aliceblue;
+    }
+
+    .container5 {
+        display: flex;
+        height: 100px;
+        background-color: rgb(32, 44, 52);
+        align-content: center;
+    }
+
+    .container5 .Copyright {
+        color: aliceblue;
+        margin-left: 650px;
+        margin-top: 40px;
+        align-content: center;
+    }
+
+    
